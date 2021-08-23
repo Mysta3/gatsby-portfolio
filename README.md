@@ -1,29 +1,21 @@
-# Gatsby Simplefolio ⚡️ [![GitHub](https://img.shields.io/github/license/cobidev/gatsby-simplefolio?color=blue)](https://github.com/cobidev/gatsby-simplefolio/blob/master/LICENSE.md) ![GitHub stars](https://img.shields.io/github/stars/cobidev/gatsby-simplefolio) ![GitHub forks](https://img.shields.io/github/forks/cobidev/gatsby-simplefolio)
+# Welcome to my Portfolio ⚡️
 
-## A clean, beautiful and responsive portfolio template for Developers
+## I am a full-time Software Engineer, who enjoys quality over quantity, clean & concise code, an open & honest work environment that encourages growth as well as provides challenges. I enjoy finding solutions to know problems that address pain points in end-users lives. I also do some freelancing work as well. 
 
-<h2 align="center">
-  <img src="https://github.com/cobidev/gatsby-simplefolio/blob/master/examples/example.gif" alt="Gatsby Simplefolio" width="600px" />
-  <br>
-</h2>
+## Technologies I've Used
 
-## Features
+👨🏾‍💻 HTML5, CSS3, JavaScript
+👨🏾‍💻 React, React Router
+👨🏾‍💻 Express, Node, MongoDB
+👨🏾‍💻 Python, Django, Django REST
+👨🏾‍💻 SQL, PostgreSQL
+👨🏾‍💻 Ruby, Ruby on Rails
+👨🏾‍💻 Material UI, Semantic UI, Bootstrap, Sass 
 
-⚡️ Modern UI Design + Reveal Animations\
-⚡️ One Page Layout built with React\
-⚡️ Styled with Bootstrap v4.3 + Custom SCSS\
-⚡️ Fully Responsive\
-⚡️ Configurable color scheme\
-⚡️ Image optimization with Gatsby\
-⚡️ Easy site customization\
-⚡️ Well organized documentation
-
-To view a demo example, **[click here](https://gatsby-simplefolio.netlify.com/)**\
-To view a live example, **[click here](https://cobidev.com/)**
 
 ---
 
-## Getting Started 🚀
+<!-- ## Getting Started 🚀
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
@@ -263,4 +255,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments 🎁
 
-I was motivated to create this project because I wanted to contribute on something useful for the dev community, thanks to [ZTM Community](https://github.com/zero-to-mastery) and [Andrei](https://github.com/aneagoie)
+I was motivated to create this project because I wanted to contribute on something useful for the dev community, thanks to [ZTM Community](https://github.com/zero-to-mastery) and [Andrei](https://github.com/aneagoie) -->
