@@ -88,6 +88,19 @@ export const projectsData = [
     url: 'https://squadup-app.herokuapp.com/squadup',
     repo: 'https://github.com/Mysta3/squadup-app', // if no repo, the button will not show up
   },
+  {
+    id: nanoid(),
+    img: 'advice-app.png',
+    title: 'Ad-Vice Assistant App',
+    info: `React.js + Hooks, Material-UI and a 3rd party API. Whether you are looking for guidance, a lover of quotes, or
+              even just searching for your next Instagram caption. You can rest
+              assure you will find one here! Who doesn't like some motivational
+              quotes that they can post or discuss with their inner circle....or
+              outer... whichever floats your boat!`,
+    info2: '',
+    url: 'https://advice-assistant-app.herokuapp.com/',
+    repo: 'https://github.com/Mysta3/advice_app', // if no repo, the button will not show up
+  },
 ];
 
 // CONTACT DATA
