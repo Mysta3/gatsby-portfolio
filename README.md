@@ -1,6 +1,6 @@
-# Welcome to my Portfolio ⚡️
+# Welcome to my Portfolio 👨🏾‍💻
 
-## I am a full-time Software Engineer, who enjoys quality over quantity, clean & concise code, an open & honest work environment that encourages growth as well as provides challenges. I enjoy finding solutions to know problems that address pain points in end-users lives. I also do some freelancing work as well. 
+-  I am a full-time Software Engineer, who enjoys quality over quantity, clean & concise code, an open & honest work environment that encourages growth as well as provides challenges. I enjoy finding solutions to know problems that address pain points in end-users lives. I also do some freelancing work as well. 
 
 ## Technologies I've Used
 
