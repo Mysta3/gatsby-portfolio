@@ -66,7 +66,7 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'simonsays.jpeg',
-    title: 'Simon Says - Poké Style',
+    title: 'Simon Says - Poké Style [Desktop Compatible Only]',
     info: `HTML, CSS with NES.css framework, and Vanilla JavaScript with
                 HOWLjs. Enjoy the original game of Simon Says with a nostalgic Pokemon
               theme! This was a project that combined my childhood with the
