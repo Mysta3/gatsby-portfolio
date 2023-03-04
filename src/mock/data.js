@@ -35,15 +35,15 @@ export const projectsData = [
     url: 'https://euphonious-arithmetic-db1812.netlify.app/',
     repo: 'https://github.com/Mysta3/crwn-clothing', // if no repo, the button will not show up
   },
-  {
-    id: nanoid(),
-    img: 'gatherup.png',
-    title: 'GATHERUP APP',
-    info: `Full Stack Application utilizing the MERN stack (MongoDB Express React Nodejs) with full CRUD capabilities. Created with a team of 4 developers utilizing AGILE best practices where I operated as Scrum master/Software Developer as well as using a Github Feature Branch workflow. The idea came from one of my team members as they wanted to bring people together within in a small community using events posted locally. Then as a team we branched it from just being local to all over.`,
-    info2: '',
-    url: 'https://gatherupapp.herokuapp.com/',
-    repo: 'https://github.com/2magpies/ibcc-frontend', // if no repo, the button will not show up
-  },
+  // {
+  //   id: nanoid(),
+  //   img: 'gatherup.png',
+  //   title: 'GATHERUP APP',
+  //   info: `Full Stack Application utilizing the MERN stack (MongoDB Express React Nodejs) with full CRUD capabilities. Created with a team of 4 developers utilizing AGILE best practices where I operated as Scrum master/Software Developer as well as using a Github Feature Branch workflow. The idea came from one of my team members as they wanted to bring people together within in a small community using events posted locally. Then as a team we branched it from just being local to all over.`,
+  //   info2: '',
+  //   url: 'https://gatherupapp.herokuapp.com/',
+  //   repo: 'https://github.com/2magpies/ibcc-frontend', // if no repo, the button will not show up
+  // },
   {
     id: nanoid(),
     img: 'touch-of-fragrance.JPG',
